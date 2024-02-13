@@ -1,0 +1,10 @@
+Cake
+Bone
+Tree
+Dice
+Cube
+Snake
+Mule
+Leaf
+Fire
+Rope

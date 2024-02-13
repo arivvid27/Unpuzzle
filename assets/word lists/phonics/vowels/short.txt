@@ -1,0 +1,10 @@
+Cat
+Dog
+Pen
+Sun
+Fish
+Elephant
+Igloo
+Octopus
+Rabbit
+Umbrella
